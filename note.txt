@@ -1,0 +1,46 @@
+Command line Angular
+
+
+Create project angular
+ng new name_project
+
+
+Run
+ng serve
+
+
+Live
+ng serve --watch
+
+
+To run but spesified host and port
+ng serve --host 0.0.0.0 --port 4201 --open
+
+
+Read to build for deployment
+ng build --prod
+
+
+Create new component
+ng generate component name_component
+or
+ng g c name_component
+
+
+Create module
+ng generate module module
+
+
+Install bootstrap
+npm install bootstrap
+
+
+Update Angular (latest version)
+npm update -g @angular/cli
+
+
+Clone projet
+git clone https://github.com/Miandritiana-Generis/LearnAngular/
+
+
+
